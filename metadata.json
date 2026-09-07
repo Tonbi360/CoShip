@@ -1,0 +1,6 @@
+{
+  "name": "CoShip",
+  "description": "A lightweight matchboard where solo vibe-builders find 1 or 2 low-commitment contributors for real projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
